@@ -1,12 +1,23 @@
-## Hi there 👋
+## :golf: 2022 골프존 테크 아카데미 최종 프로젝트
 
-<!--
+### 소개
+> :seedling: 개발자로 성장중인 비전공 개발자의 사무공간 렌탈 플랫폼 프로젝트 입니다.
+<br>
 
-**Here are some ideas to get you started:**
+### 기능요약
+> 사무공간의 공급 및 대여(예약,결제) 서비스를 제공
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+>
+<br>
+
+### :calendar: 개발기간
+> 2022.11.14 ~ 2022.12.22
+<br>
+
+### 멤버
+> <strong>BE : [fredlee613](https://github.com/fredlee613) | [suyeon222](https://github.com/suyeon222)<strong>
+
+> <strong>FE : [NewbieCodestudent](https://github.com/NewbieCodestudent)<strong>
+<br>
+
+### 기술
